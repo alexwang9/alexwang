@@ -1,0 +1,49 @@
+body{
+  font-family: 'Noto Sans', sans-serif;
+}
+
+.container{
+  display: flex;
+  flex-direction: column;
+  top: 0;
+  right: 0;
+  left: 0;
+  background-color: #1F2937;
+  position: fixed;
+}
+
+.header{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-left: 200px;
+  margin-right: 200px;
+  align-items: center;
+}
+
+.logo-img{
+  height: 35px;
+  width: auto;
+}
+
+.header-logo{
+  flex: 1;
+  flex-grow: 1;
+}
+
+.header-links{
+  flex: 1;
+  justify-content: space-between;
+}
+
+.header-links > ul{
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+
+li{
+  padding-left: 20px;
+  color: white;
+}
