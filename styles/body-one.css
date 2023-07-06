@@ -1,0 +1,40 @@
+.first-body{
+  margin-top: 20px;
+  margin-bottom: 50px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.writing{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: white;
+  margin-left: 100px;
+  margin-right: 50px;
+  flex: 3;
+  border: 2px solid white;
+  border-radius: 15px;
+}
+
+.pic{
+  flex: 1;
+  margin-right: 50px;
+}
+
+.headshot-image{
+  height: 220px;
+  width: auto;
+  border-radius: 30%;
+}
+
+.first-header{
+  font-size: 60px;
+}
+
+.intro{
+  font-size: 20px;
+  text-align: center;
+}
