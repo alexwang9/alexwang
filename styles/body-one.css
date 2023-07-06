@@ -1,37 +1,35 @@
 .first-body{
   margin-top: 20px;
-  margin-bottom: 50px;
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: space-between;
-}
-
-.writing{
+  margin-bottom: 20px;
   display: flex;
   flex-direction: column;
   align-items: center;
-  color: white;
-  margin-left: 100px;
-  margin-right: 50px;
-  flex: 3;
-  border: 2px solid white;
-  border-radius: 15px;
+  justify-content: center;
 }
 
-.pic{
-  flex: 1;
-  margin-right: 50px;
+.la-pic{
+}
+
+.writing{
+  color: white;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-bottom: 60px;
 }
 
 .headshot-image{
   height: 220px;
   width: auto;
-  border-radius: 30%;
+  border-radius: 20%;
+  border: 2px solid white;
 }
 
+
+
 .first-header{
-  font-size: 60px;
+  font-size: 100px;
+  margin-bottom: 20px;
+  text-align: center;
 }
 
 .intro{
