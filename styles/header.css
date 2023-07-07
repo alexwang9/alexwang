@@ -38,11 +38,14 @@
 
 li{
   padding-left: 20px;
+}
+
+.link1,.link2,.link3,.link4{
   color: white;
   transition: 200ms;
 }
 
-li:hover{
+.link1:hover,.link2:hover,.link3:hover,.link4:hover{
   text-shadow: 0.5px 0;
   cursor: pointer;
 }
