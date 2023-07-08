@@ -51,7 +51,7 @@ h2{
   margin: 20px;
 }
 
-.p1-text, .p2-text{
+.p1-text, .p2-text, .p3-text{
   white-space: nowrap;
   margin: 2px;
 }
