@@ -8,15 +8,6 @@
   align-items: center;
 }
 
-.logo-img{
-  height: 50px;
-  width: auto;
-}
-
-.logo-img:hover{
-  cursor: pointer;
-}
-
 .header-logo{
   flex: 1;
   flex-grow: 1;
