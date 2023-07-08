@@ -1,3 +1,32 @@
 .third-body{
     color: black;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: lightgray;
+    padding-bottom: 40px;
 }
+
+.third{
+    flex: 1;
+    text-align: center;
+}
+
+
+
+.experiences{
+    flex: 1.5;
+}
+
+.exp-one, .exp-two, .exp-three{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 30px;
+}
+
+.exp-one > p, .exp-two > p, .exp-three > p{
+    margin-top: 2px;
+    margin-bottom: 5px;
+}
+
