@@ -1,0 +1,18 @@
+.fourth-body{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    padding-top: 80px;
+    padding-bottom: 40px;
+}
+
+.fourth-body > div > a > img{
+    height: 60px;
+    width: auto;
+}
+
+.fourth-body > div > a > img:hover{
+    cursor: pointer;
+    opacity: 0.6;
+}
