@@ -15,6 +15,7 @@
 
 .experiences{
     flex: 1.5;
+    padding-right: 70px;
 }
 
 .exp-one, .exp-two, .exp-three{
