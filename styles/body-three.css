@@ -18,14 +18,14 @@
     padding-right: 70px;
 }
 
-.exp-one, .exp-two, .exp-three{
+.exp-zero, .exp-one, .exp-two, .exp-three{
     display: flex;
     flex-direction: column;
     align-items: center;
     margin-top: 30px;
 }
 
-.exp-one > p, .exp-two > p, .exp-three > p{
+.exp-zero > p, .exp-one > p, .exp-two > p, .exp-three > p{
     margin-top: 2px;
     margin-bottom: 5px;
 }

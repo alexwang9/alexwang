@@ -11,7 +11,7 @@ body{
 
 .main{
   min-height: 100%;
-  background: linear-gradient(#1F2937 50%, white 50%);
+  background: linear-gradient(#1F2937 35%, white 50%);
   color: white;
 }
 
