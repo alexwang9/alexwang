@@ -38,5 +38,6 @@ li{
 
 .link1:hover,.link2:hover,.link3:hover,.link4:hover{
   text-shadow: 0.5px 0;
+  color: #FFCB05;
   cursor: pointer;
 }
